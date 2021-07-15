@@ -3,7 +3,7 @@
 ## Menú Principal :
 ![Screenshot_20210715-150332_Termux](https://user-images.githubusercontent.com/81049859/125843960-d295046e-6883-4350-8279-66ddb7389155.png)
 
-* Remake de: [SETSMS](https://github.com/Darkmux/SETSMS) by Darkmux
+* Remake de [SETSMS](https://github.com/Darkmux/SETSMS) by Darkmux
 
 ## SpamCj7 :
 * Spam a números telefónicos de manera anónima y gratuita.
