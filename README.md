@@ -20,12 +20,6 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` apt update && apt upgrade -y `
 
-* ` apt install ncurses-utils -y `
-
-* ` pkg install -y git `
-
-* ` gem install lolcat `
-
 * ` git clone https://github.com/Juliocj7/SpamCj7 `
 
 * ` cd SpamCj7 `
