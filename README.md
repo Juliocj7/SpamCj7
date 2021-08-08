@@ -8,6 +8,7 @@
 ## SpamCj7 :
 * Spam a números telefónicos de manera anónima y gratuita.
 * Utiliza las herramientas **(Quack - Impulse)** para realizar el spam.
+* Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
