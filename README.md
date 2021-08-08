@@ -25,7 +25,7 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` cd SpamCj7 `
 
-* ` chmod 777 SpamCj7 `
+* ` chmod +x * `
 
 * ` bash SpamCj7 `
 
