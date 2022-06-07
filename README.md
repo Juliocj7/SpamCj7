@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -22,13 +21,8 @@
 
 </details>
 
-
 ## Menú Principal :
 ![Screenshot_20220522-164551_Termux](https://user-images.githubusercontent.com/81049859/169715894-e5e5c90b-709a-443d-8ba2-ee2d61ef4a1e.png)
-
-
-
-
 
 * Remake de [SETSMS](https://github.com/Darkmux/SETSMS) by Darkmux
 
@@ -46,8 +40,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* ` apt update && apt upgrade -y `
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * ` git clone https://github.com/Juliocj7/SpamCj7 `
 
 * ` cd SpamCj7 `
