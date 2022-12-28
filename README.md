@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220522-164551_Termux](https://user-images.githubusercontent.com/81049859/169715894-e5e5c90b-709a-443d-8ba2-ee2d61ef4a1e.png)
+![Screenshot_20221228-175947_Termux](https://user-images.githubusercontent.com/81049859/209880352-108576dd-ffcf-4973-8061-56ec906b9e77.png)
 
 * Remake de [SETSMS](https://github.com/Darkmux/SETSMS) by Darkmux
 
