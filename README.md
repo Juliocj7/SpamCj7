@@ -45,7 +45,12 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328315](https://github.com/Juliocj7/SpamCj7/assets/81049859/4e6b8d09-ae4b-4df9-b6c2-bd88f8ef7696)
 
-* Remake de [SETSMS](https://github.com/Darkmux/SETSMS) by Darkmux
+<div align="center">
+
+  > Super remake of: [**`SETSMS`**](https://github.com/DeepSociety/ProxyShell)
+
+</div>
+
 
 ## SpamCj7 :
 * Spam a números telefónicos de manera anónima y gratuita.
@@ -57,17 +62,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/SpamCj7 `
-
-* ` cd SpamCj7 `
-
-* ` chmod +x * `
-
-* ` bash SpamCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/SpamCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd SpamCj7 && chmod +x * && ./SpamCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
